@@ -1,4 +1,4 @@
-import Lab2
+import Lab2 as Lab2
 
 def test_find_min_max():
     user_input = [23, 56, 73, 90, 12, 35, 83, 52, 61]
